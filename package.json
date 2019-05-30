@@ -1,0 +1,23 @@
+{
+  "name": "pokemon-sprites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixmix/pokemon-sprites.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mixmix/pokemon-sprites/issues"
+  },
+  "homepage": "https://github.com/mixmix/pokemon-sprites#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
